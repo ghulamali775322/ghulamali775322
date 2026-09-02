@@ -6,7 +6,7 @@
 
 Welcome to my GitHub!
 
-I'm a Software Engineering graduate from the University of Gujrat passionate about building reliable and scalable web applications. My expertise lies in modern full-stack development using Next.js, TypeScript, Tailwind CSS, and the MERN stack. I enjoy transforming ideas into practical applications by combining software engineering principles, modern development technologies, and continuous learning.
+I'm a Software Engineering graduate passionate about building reliable, scalable, and maintainable software solutions. I enjoy transforming ideas into practical applications by combining software engineering principles, modern development technologies, and continuous learning.
 
 I am actively seeking **Junior Software Engineer** opportunities where I can contribute to real-world projects, collaborate with experienced engineers, and continue growing both technically and professionally.
 
@@ -222,7 +222,9 @@ I aspire to build software that is reliable, scalable, maintainable, and valuabl
 ### 📈 GitHub
 
 This GitHub profile showcases my academic projects, personal development, and continuous learning journey.
+
 Every repository represents an opportunity to strengthen my software engineering knowledge, improve my programming skills, and explore modern technologies.
+
 I enjoy learning by building, experimenting, and continuously refining my work.
 
 ---
@@ -231,10 +233,10 @@ I enjoy learning by building, experimenting, and continuously refining my work.
 
 I'm always happy to connect with software engineers, recruiters, and technology professionals.
 
-* 📧 **[ghulamali5322@gmail.com]**
+* 📧 **ghulamali5322@gmail.com**
 
 Feel free to connect if you'd like to discuss software development, collaborate on projects, or explore software engineering opportunities.
 
-*"Great software is built through curiosity, collaboration, and continuous improvement."*
+**"Great software is built through curiosity, collaboration, and continuous improvement."**
 
 Thank you for visiting my profile! ⭐
