@@ -8,14 +8,16 @@ Welcome to my GitHub!
 
 I'm a Software Engineering graduate from the University of Gujrat passionate about building reliable and scalable web applications. My expertise lies in modern full-stack development using Next.js, TypeScript, Tailwind CSS, and the MERN stack. I enjoy transforming ideas into practical applications by combining software engineering principles, modern development technologies, and continuous learning.
 
-I am actively seeking **Entry-Level Software Engineer or Professional Internship** opportunities where I can contribute to real-world projects, collaborate with experienced engineers, and continue growing both technically and professionally.
+I am actively seeking **Junior Software Engineer** opportunities where I can contribute to real-world projects, collaborate with experienced engineers, and continue growing both technically and professionally.
 
 ---
 
 ### 🚀 Engineering Philosophy
 
 For me, software engineering is more than writing code.
+
 I believe great software starts with understanding the problem before designing the solution. My goal is to develop applications that are clean, maintainable, and user-focused while following professional engineering practices.
+
 I enjoy solving challenging problems, learning new technologies, collaborating with teams, and continuously improving both my technical knowledge and development workflow.
 
 ---
@@ -59,24 +61,34 @@ My academic background provided practical knowledge of the complete Software Dev
 * Software Requirements Engineering
 * Requirement Gathering & Analysis
 * Functional & Non-Functional Requirements
-* System Design & UML Modeling
+* System Design 
+* UML Modeling
 * Software Architecture Fundamentals
 * Agile Development Concepts
-* Software Testing Fundamentals & Quality Assurance
-* Software Documentation & Maintenance
+* Software Testing Fundamentals 
+* Software Quality Assurance
+* Software Documentation 
+* Software Maintenance
 * Version Control with Git
 
 ---
 
 ### 🤝 Collaboration & Teamwork
 
-I enjoy working in collaborative environments where ideas are shared, challenges are solved together, and continuous improvement is encouraged. I'm comfortable contributing throughout different stages of software development, including:
+I enjoy working in collaborative environments where ideas are shared, challenges are solved together, and continuous improvement is encouraged. 
+I'm comfortable contributing throughout different stages of software development, including:
 
-* Requirement Analysis & Feature Planning
-* Technical Discussions & System Design
-* Implementation, Debugging, & Testing
-* Documentation & Code Review Participation
-* Team Communication & Continuous Learning
+* Requirement Analysis
+* Feature Planning
+* Technical Discussions 
+* System Design
+* Implementation
+* Debugging 
+* Testing
+* Documentation
+* Code Review Participation
+* Team Communication 
+* Continuous Learning
 
 I believe successful software is created through collaboration, communication, and shared responsibility.
 
@@ -87,6 +99,9 @@ I believe successful software is created through collaboration, communication, a
 **Programming Languages**
 * TypeScript
 * JavaScript
+* Java
+* C++
+* C#
 * Python
 * SQL
 
@@ -95,7 +110,8 @@ I believe successful software is created through collaboration, communication, a
 **Frontend Development**
 * Next.js
 * React
-* HTML5 / CSS3
+* HTML5
+* CSS3
 * Tailwind CSS
 
 ---
@@ -103,6 +119,7 @@ I believe successful software is created through collaboration, communication, a
 **Backend Development**
 * Node.js
 * Express.js
+* ASP.NET Core MVC
 * RESTful APIs
 
 ---
@@ -110,23 +127,31 @@ I believe successful software is created through collaboration, communication, a
 **Database Technologies**
 * MongoDB
 * MySQL
-* Database Design & Relational Database Concepts
+* Entity Framework Core
+* Database Design
+* Relational Database Concepts
 
 ---
 
-**Software Development Practices**
+**Software Development**
 * Clean Code Principles
 * Object-Oriented Design & MVC Architecture
 * Authentication & Authorization
-* API Integration & CRUD Applications
+* API Integration
+* CRUD Applications
 * Responsive UI Development
 
 ---
 
 **Development Tools**
-* Git & GitHub
+* Git
+* GitHub
 * Visual Studio Code
 * Postman
+* My SQL Workbench
+* Visual Studio 2022
+* Jupyter Notebook
+* MongoDB Compass
 
 ---
 
@@ -137,3 +162,79 @@ When building software, I aim to follow a structured engineering approach:
 **Requirements → Analysis → Design → Development → Testing → Debugging → Documentation → Maintenance**
 
 This workflow helps me build software that is organized, maintainable, and easier to improve over time.
+
+---
+
+### 📂 Featured Projects
+
+**🚀 Rentza**
+
+*Collaborative Final-Year Project*  
+A modern full-stack rental platform built using Next.js, TypeScript, Node.js, Express.js, and MongoDB.
+
+**Highlights**
+* Authentication & Authorization
+* REST API Development
+* Role-Based Access Control
+* Admin Dashboard
+* Database Integration
+* Responsive User Interface
+* Collaborative Team Development
+
+  ---
+
+### 🌱 Currently Learning
+
+I believe continuous learning is one of the most important qualities of a software engineer.
+Currently focusing on:
+
+* Clean Architecture
+* Design Patterns
+* System Design
+* Cloud Computing Fundamentals
+* Microservices Fundamentals
+* Advanced SQL
+* Software Architecture
+
+---
+
+### 🎯 Career Objective
+
+My goal is to begin my professional career as a Software Engineer  where I can contribute to meaningful software products, collaborate with experienced teams, and continuously improve my technical expertise.
+I aspire to build software that is reliable, scalable, maintainable, and valuable to both users and businesses while growing into an engineer known for quality, professionalism, and continuous improvement.
+
+---
+
+### 🌟 Core Values
+
+* Continuous Learning
+* Curiosity
+* Professional Growth
+* Team Collaboration
+* Problem Solving
+* Ownership
+* Integrity
+* Clean & Maintainable Code
+* Attention to Detail
+
+---
+
+### 📈 GitHub
+
+This GitHub profile showcases my academic projects, personal development, and continuous learning journey.
+Every repository represents an opportunity to strengthen my software engineering knowledge, improve my programming skills, and explore modern technologies.
+I enjoy learning by building, experimenting, and continuously refining my work.
+
+---
+
+### 📫 Let's Connect
+
+I'm always happy to connect with software engineers, recruiters, and technology professionals.
+
+* 📧 **[ghulamali5322@gmail.com]**
+
+Feel free to connect if you'd like to discuss software development, collaborate on projects, or explore software engineering opportunities.
+
+*"Great software is built through curiosity, collaboration, and continuous improvement."*
+
+Thank you for visiting my profile! ⭐
