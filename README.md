@@ -1,6 +1,6 @@
 # Hi, I'm Ghulam Ali 👋
 
-### Software Engineering Graduate • Full-Stack Web Developer (MERN, Next.js) |AI & Machine Learning Enthusiast
+### Software Engineering Graduate | Full-Stack Web Developer (MERN, Next.js) | AI & Machine Learning Enthusiast
 
 📍 Gujrat, Pakistan pk
 
